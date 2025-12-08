@@ -1,6 +1,6 @@
 # Staff-Training-Sim
 Task Allocation
-Jovan
+</br>Jovan
 Mervin
 Dylan
 Teck Heng
