@@ -1,10 +1,10 @@
 # Staff-Training-Sim
 Task Allocation
 </br>
-Jovan-
+Jovan- Main coder
 </br>
-Mervin-
+Mervin- Sound and speaker mute n play function
 </br>
-Dylan-
+Dylan- images and postion of the sprites
 </br>
-Teck Heng-
+Teck Heng- Sprite saying message
